@@ -1,3 +1,5 @@
+#Simple old image classifier in Pytorch... copied from the PT tutorials in late 2019...
+
 import torch
 import torchvision
 import torchvision.transforms as transforms
